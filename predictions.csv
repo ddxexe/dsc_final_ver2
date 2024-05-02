@@ -1,0 +1,213 @@
+Name,Predicted,Actual,Category
+/Data/02tumor/25x_Td_power2_stepsize1_PMT700_Ch1.stk,0.84114856,1,Malignant
+/Data/02tumor/25x_Td_power2_stepsize1_PMT700_Ch2.stk,0.98670316,1,Malignant
+/Data/02tumor/25x_Td_power2_stepsize1_PMT700_Ch3.stk,0.02027907,0,Benign
+/Data/02tumor/25x_Td_power2_stepsize1_PMT700_Ch4.stk,0.9995184,1,Malignant
+/Data/02tumor/25x_Td_power2_stepsize1_PMT700_Color Combine.stk,0.016001465,1,Malignant
+/Data/02tumor/25x_Td_power2_stepsize1_PMT700_Color Combine_24bits.stk,0.99830437,1,Malignant
+/Data/02tumor/25x_Td_power2_stepsize1_PMT700_zoom2_kalman3_Ch1.stk,0.9539435,0,Benign
+/Data/02tumor/25x_Td_power2_stepsize1_PMT700_zoom2_kalman3_Ch2.stk,0.19423978,1,Malignant
+/Data/02tumor/25x_Td_power2_stepsize1_PMT700_zoom2_kalman3_Ch3.stk,0.019989355,0,Benign
+/Data/02tumor/25x_Td_power2_stepsize1_PMT700_zoom2_kalman3_Ch4.stk,0.005791103,0,Benign
+/Data/02tumor/25x_Td_power2_stepsize1_PMT700_zoom2_kalman3_Color Combine.stk,0.019544685,0,Benign
+/Data/02tumor/25x_Td_power2_stepsize1_PMT700_zoom2_kalman3_Color Combine_24bits.stk,0.91942805,1,Malignant
+/Data/03tumor/25x_Tc_power2_stepsize1_PMT700_Ch3.stk,0.2494427,0,Benign
+/Data/03tumor/25x_Tc_power2_stepsize1_PMT700_Ch4.stk,0.4989331,0,Benign
+/Data/03tumor/25x_Tc_power2_stepsize1_PMT700_Color Combine.stk,0.006670723,0,Benign
+/Data/03tumor/25x_Tc_power2_stepsize1_PMT700_Color Combine_24bits.stk,0.99293053,1,Malignant
+/Data/03tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Ch1.stk,0.42521366,0,Benign
+/Data/03tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Ch2.stk,0.9997266,1,Malignant
+/Data/03tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Ch3.stk,0.98390996,1,Malignant
+/Data/03tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Ch4.stk,0.94483256,1,Malignant
+/Data/03tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Color Combine.stk,0.9912067,1,Malignant
+/Data/03tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Color Combine_24bits.stk,0.58846474,0,Benign
+/Data/04tumor/25x_Td_power2_stepsize1_PMT700_zoom2_kalman3_Ch1.stk,0.9807587,1,Malignant
+/Data/04tumor/25x_Td_power2_stepsize1_PMT700_zoom2_kalman3_Ch2.stk,0.9900657,0,Benign
+/Data/04tumor/25x_Td_power2_stepsize1_PMT700_zoom2_kalman3_Ch3.stk,0.99925417,1,Malignant
+/Data/04tumor/25x_Td_power2_stepsize1_PMT700_zoom2_kalman3_Ch4.stk,0.009829633,0,Benign
+/Data/04tumor/25x_Td_power2_stepsize1_PMT700_zoom2_kalman3_Color Combine.stk,0.002641161,0,Benign
+/Data/04tumor/25x_Td_power2_stepsize1_PMT700_zoom2_kalman3_Color Combine_24bits.stk,0.9920752,1,Malignant
+/Data/05tumor/25x_Ta_power2_stepsize1_PMT700_zoom2_kalman3_Ch1.stk,0.21791774,0,Benign
+/Data/05tumor/25x_Ta_power2_stepsize1_PMT700_zoom2_kalman3_Ch2.stk,0.9994686,1,Malignant
+/Data/05tumor/25x_Ta_power2_stepsize1_PMT700_zoom2_kalman3_Ch3.stk,0.18251756,1,Malignant
+/Data/05tumor/25x_Ta_power2_stepsize1_PMT700_zoom2_kalman3_Ch4.stk,0.031992976,0,Benign
+/Data/05tumor/25x_Ta_power2_stepsize1_PMT700_zoom2_kalman3_Color Combine.stk,0.056520842,0,Benign
+/Data/05tumor/25x_Ta_power2_stepsize1_PMT700_zoom2_kalman3_Color Combine_24bits.stk,0.003152635,0,Benign
+/Data/06tumor/25x_Tc_power2_stepsize1_PMT700_Color Combine_24bits.stk,0.8026869,1,Malignant
+/Data/06tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Ch1.stk,0.99216616,1,Malignant
+/Data/06tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Ch2.stk,0.99974746,1,Malignant
+/Data/06tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Ch3.stk,0.91452014,1,Malignant
+/Data/06tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Ch4.stk,0.31810963,0,Benign
+/Data/06tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Color Combine.stk,0.59398013,0,Benign
+/Data/06tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Color Combine_24bits.stk,0.997898,1,Malignant
+/Data/09tumor/25x_T2c_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.2114454,0,Benign
+/Data/09tumor/25x_T2d_780nm_power2_stepsize1_Ch1.stk,0.754881,1,Malignant
+/Data/09tumor/25x_T2d_780nm_power2_stepsize1_Ch2.stk,0.8623112,1,Malignant
+/Data/09tumor/25x_T2d_780nm_power2_stepsize1_Ch3.stk,0.82387143,1,Malignant
+/Data/09tumor/25x_T2d_780nm_power2_stepsize1_Ch4.stk,0.000788216,0,Benign
+/Data/09tumor/25x_T2d_780nm_power2_stepsize1_Color Combine.stk,0.99066156,1,Malignant
+/Data/09tumor/25x_T2d_780nm_power2_stepsize1_Color Combine_24bits.stk,0.99046713,1,Malignant
+/Data/09tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.9974909,1,Malignant
+/Data/09tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.10095522,0,Benign
+/Data/09tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.95667005,1,Malignant
+/Data/09tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.05789551,0,Benign
+/Data/09tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.99967897,1,Malignant
+/Data/09tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.071924046,0,Benign
+/Data/11tumor/25x_Td_780nm_power2_stepsize1_Ch4.stk,0.009310528,0,Benign
+/Data/11tumor/25x_Td_780nm_power2_stepsize1_Color Combine.stk,0.94888616,1,Malignant
+/Data/11tumor/25x_Td_780nm_power2_stepsize1_Color Combine_24bits.stk,0.8655654,0,Benign
+/Data/11tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.9904614,1,Malignant
+/Data/11tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.5931703,1,Malignant
+/Data/11tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.9979139,1,Malignant
+/Data/11tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.9071418,1,Malignant
+/Data/11tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.99116534,1,Malignant
+/Data/11tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.9715499,1,Malignant
+/Data/12tumor/25x_Tc_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.5261574,0,Benign
+/Data/12tumor/25x_Tc_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.7660992,0,Benign
+/Data/12tumor/25x_Tc_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.99801093,1,Malignant
+/Data/12tumor/25x_Tc_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.4381852,0,Benign
+/Data/12tumor/25x_Tc_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.24141486,1,Malignant
+/Data/12tumor/25x_Tc_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.10276574,0,Benign
+/Data/13tumor/25x_T2b_780nm_power2_stepsize1_Ch1.stk,0.96838135,1,Malignant
+/Data/13tumor/25x_T2b_780nm_power2_stepsize1_Ch2.stk,0.9005413,0,Benign
+/Data/13tumor/25x_T2b_780nm_power2_stepsize1_Ch3.stk,0.9777715,1,Malignant
+/Data/13tumor/25x_T2b_780nm_power2_stepsize1_Ch4.stk,0.010648251,0,Benign
+/Data/13tumor/25x_T2b_780nm_power2_stepsize1_Color Combine.stk,0.24604902,0,Benign
+/Data/13tumor/25x_T2b_780nm_power2_stepsize1_Color Combine_24bits.stk,0.6457673,0,Benign
+/Data/13tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.8953033,1,Malignant
+/Data/13tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.9581153,1,Malignant
+/Data/13tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.19091114,1,Malignant
+/Data/13tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.9962775,1,Malignant
+/Data/13tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.8979291,1,Malignant
+/Data/13tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.52011853,0,Benign
+/Data/14tumor/25x_T2b_780nm_power2_stepsize1_Ch3.stk,0.35893875,1,Malignant
+/Data/14tumor/25x_T2b_780nm_power2_stepsize1_Ch4.stk,0.8693713,0,Benign
+/Data/14tumor/25x_T2b_780nm_power2_stepsize1_Color Combine.stk,0.28065935,1,Malignant
+/Data/14tumor/25x_T2b_780nm_power2_stepsize1_Color Combine_24bits.stk,0.8382616,1,Malignant
+/Data/14tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.9989766,1,Malignant
+/Data/14tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.22247124,1,Malignant
+/Data/14tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.9964336,1,Malignant
+/Data/14tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.9954124,1,Malignant
+/Data/14tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.99831486,0,Benign
+/Data/14tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.9964198,1,Malignant
+/Data/15tumor/25x_T2b_780nm_power2_stepsize1_Ch4.stk,0.990428,1,Malignant
+/Data/15tumor/25x_T2b_780nm_power2_stepsize1_Color Combine.stk,0.17275964,0,Benign
+/Data/15tumor/25x_T2b_780nm_power2_stepsize1_Color Combine_24bits.stk,0.8680249,1,Malignant
+/Data/15tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.028128866,0,Benign
+/Data/15tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.51174337,0,Benign
+/Data/15tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.83872515,0,Benign
+/Data/15tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.2924796,0,Benign
+/Data/15tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.47729462,0,Benign
+/Data/15tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.18785407,0,Benign
+/Data/16tumor/25x_T1d_780nm_power2_stepsize1_Ch4.stk,0.8403456,1,Malignant
+/Data/16tumor/25x_T1d_780nm_power2_stepsize1_Color Combine.stk,0.9251145,1,Malignant
+/Data/16tumor/25x_T1d_780nm_power2_stepsize1_Color Combine_24bits.stk,0.9982652,1,Malignant
+/Data/16tumor/25x_T1d_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.9858067,0,Benign
+/Data/16tumor/25x_T1d_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.99927574,1,Malignant
+/Data/16tumor/25x_T1d_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.9809109,1,Malignant
+/Data/16tumor/25x_T1d_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.9740034,1,Malignant
+/Data/16tumor/25x_T1d_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.098312624,0,Benign
+/Data/16tumor/25x_T1d_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.9366142,1,Malignant
+/Data/17tumor/25x_Td_780nm_power2_stepsize1_Ch4.stk,0.9991602,1,Malignant
+/Data/17tumor/25x_Td_780nm_power2_stepsize1_Color Combine.stk,0.07891746,0,Benign
+/Data/17tumor/25x_Td_780nm_power2_stepsize1_Color Combine_24bits.stk,0.065607294,0,Benign
+/Data/17tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.09925361,1,Malignant
+/Data/17tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.000997947,0,Benign
+/Data/17tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.99347854,1,Malignant
+/Data/17tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.9980404,1,Malignant
+/Data/17tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.9568479,1,Malignant
+/Data/17tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.9955212,1,Malignant
+/Data/18tumor/25x_T2d_780nm_power2_stepsize1_Ch4.stk,0.99940085,1,Malignant
+/Data/18tumor/25x_T2d_780nm_power2_stepsize1_Color Combine.stk,0.008436918,0,Benign
+/Data/18tumor/25x_T2d_780nm_power2_stepsize1_Color Combine_24bits.stk,0.9923919,1,Malignant
+/Data/18tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.95371056,1,Malignant
+/Data/18tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.18849733,0,Benign
+/Data/18tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.66147053,0,Benign
+/Data/18tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.7669494,0,Benign
+/Data/18tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.9897518,1,Malignant
+/Data/18tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.60226965,0,Benign
+/Data/19tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.27797532,0,Benign
+/Data/19tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.9994935,1,Malignant
+/Data/19tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.056751255,0,Benign
+/Data/19tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.9500429,1,Malignant
+/Data/19tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.006727544,0,Benign
+/Data/19tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.9122644,1,Malignant
+/Data/20tumor/25x_T2b_780nm_power2_stepsize1_Ch4.stk,0.000460104,0,Benign
+/Data/20tumor/25x_T2b_780nm_power2_stepsize1_Color Combine.stk,0.047212183,1,Malignant
+/Data/20tumor/25x_T2b_780nm_power2_stepsize1_Color Combine_24bits.stk,0.9969574,1,Malignant
+/Data/20tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.921597,1,Malignant
+/Data/20tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.9028612,1,Malignant
+/Data/20tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.9981499,1,Malignant
+/Data/20tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.008696297,0,Benign
+/Data/20tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.047494285,0,Benign
+/Data/20tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.22750768,1,Malignant
+/Data/21tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Ch1.stk,0.97296226,1,Malignant
+/Data/21tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Ch2.stk,0.6136346,0,Benign
+/Data/21tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Ch3.stk,0.21649927,1,Malignant
+/Data/21tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Ch4.stk,0.9962106,1,Malignant
+/Data/21tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Color Combine.stk,0.07824576,0,Benign
+/Data/21tumor/25x_Tc_power2_stepsize1_PMT700_zoom2_kalman3_Color Combine_24bits.stk,0.99987924,1,Malignant
+/Data/22tumor/25x_Tmixc_780nm_power2_stepsize1_Color Combine.stk,0.9971136,1,Malignant
+/Data/22tumor/25x_Tmixc_780nm_power2_stepsize1_Color Combine_24bits.stk,0.9567556,1,Malignant
+/Data/22tumor/25x_Tmixc_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.83524597,1,Malignant
+/Data/22tumor/25x_Tmixc_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.77038956,1,Malignant
+/Data/22tumor/25x_Tmixc_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.005098408,0,Benign
+/Data/22tumor/25x_Tmixc_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.024729146,0,Benign
+/Data/22tumor/25x_Tmixc_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.003061721,0,Benign
+/Data/22tumor/25x_Tmixd_780nm_power2_stepsize1_Ch1.stk,0.37180653,0,Benign
+/Data/22tumor/25x_Tmixd_780nm_power2_stepsize1_Ch2.stk,0.99856097,1,Malignant
+/Data/22tumor/25x_Tmixd_780nm_power2_stepsize1_Ch3.stk,0.15443143,0,Benign
+/Data/22tumor/25x_Tmixd_780nm_power2_stepsize1_Ch4.stk,0.73655725,1,Malignant
+/Data/22tumor/25x_Tmixd_780nm_power2_stepsize1_Color Combine.stk,0.1234511,0,Benign
+/Data/22tumor/25x_Tmixd_780nm_power2_stepsize1_Color Combine_24bits.stk,0.051195238,0,Benign
+/Data/22tumor/25x_Tmixd_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.87189424,1,Malignant
+/Data/22tumor/25x_Tmixd_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.23338568,0,Benign
+/Data/22tumor/25x_Tmixd_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.9890716,1,Malignant
+/Data/22tumor/25x_Tmixd_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.9995654,1,Malignant
+/Data/22tumor/25x_Tmixd_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.9688345,1,Malignant
+/Data/22tumor/25x_Tmixd_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.2628002,1,Malignant
+/Data/23tumor/25x_T2b_780nm_power2_stepsize1_Ch4.stk,0.81264734,1,Malignant
+/Data/23tumor/25x_T2b_780nm_power2_stepsize1_Color Combine.stk,0.9933531,1,Malignant
+/Data/23tumor/25x_T2b_780nm_power2_stepsize1_Color Combine_24bits.stk,0.000138627,0,Benign
+/Data/23tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.72895515,0,Benign
+/Data/23tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.99041206,1,Malignant
+/Data/23tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.000500498,0,Benign
+/Data/23tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.41537526,0,Benign
+/Data/23tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.99948645,1,Malignant
+/Data/23tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.2801334,0,Benign
+/Data/24tumor/25x_T2d_780nm_power2_stepsize1_Ch1.stk,0.9974631,1,Malignant
+/Data/24tumor/25x_T2d_780nm_power2_stepsize1_Ch2.stk,0.008394818,0,Benign
+/Data/24tumor/25x_T2d_780nm_power2_stepsize1_Ch3.stk,0.78357315,0,Benign
+/Data/24tumor/25x_T2d_780nm_power2_stepsize1_Ch4.stk,0.9986897,1,Malignant
+/Data/24tumor/25x_T2d_780nm_power2_stepsize1_Color Combine.stk,0.99822,1,Malignant
+/Data/24tumor/25x_T2d_780nm_power2_stepsize1_Color Combine_24bits.stk,0.04160958,0,Benign
+/Data/24tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.01618104,0,Benign
+/Data/24tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.047685634,0,Benign
+/Data/24tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.057443615,0,Benign
+/Data/24tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.33969632,0,Benign
+/Data/24tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.00058661,0,Benign
+/Data/24tumor/25x_T2d_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.122552976,0,Benign
+/Data/25tumor/25x_Td_780nm_power2_stepsize1_Ch4.stk,0.28329834,1,Malignant
+/Data/25tumor/25x_Td_780nm_power2_stepsize1_Color Combine.stk,0.9923189,0,Benign
+/Data/25tumor/25x_Td_780nm_power2_stepsize1_Color Combine_24bits.stk,0.01759063,0,Benign
+/Data/25tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.8309428,0,Benign
+/Data/25tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.9992791,1,Malignant
+/Data/25tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.997954,1,Malignant
+/Data/25tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.37746307,1,Malignant
+/Data/25tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.18120919,0,Benign
+/Data/25tumor/25x_Td_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.028050063,0,Benign
+/Data/26tumor/25x_T2b_780nm_power2_stepsize1_Ch4.stk,0.87508833,1,Malignant
+/Data/26tumor/25x_T2b_780nm_power2_stepsize1_Color Combine.stk,0.9786435,1,Malignant
+/Data/26tumor/25x_T2b_780nm_power2_stepsize1_Color Combine_24bits.stk,0.044225987,0,Benign
+/Data/26tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch1.stk,0.20481437,0,Benign
+/Data/26tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch2.stk,0.36352593,0,Benign
+/Data/26tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch3.stk,0.013378303,0,Benign
+/Data/26tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Ch4.stk,0.043819096,0,Benign
+/Data/26tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Color Combine.stk,0.95797545,1,Malignant
+/Data/26tumor/25x_T2b_780nm_power2_stepsize1_zoom2_kalman3_Color Combine_24bits.stk,0.7054998,1,Malignant
+/Data/28tumor/25x_T2_780nm_power2_stepsize1_Ch1.stk,0.9504122,1,Malignant
+/Data/28tumor/25x_T2_780nm_power2_stepsize1_Ch2.stk,0.9932355,1,Malignant
+/Data/28tumor/25x_T2_780nm_power2_stepsize1_Ch3.stk,0.9799033,1,Malignant
+/Data/28tumor/25x_T2_780nm_power2_stepsize1_Ch4.stk,0.40457085,1,Malignant
+/Data/28tumor/25x_T2_780nm_power2_stepsize1_Color Combine.stk,0.171031,0,Benign
+/Data/28tumor/25x_T2_780nm_power2_stepsize1_Color Combine_24bits.stk,0.06658803,0,Benign
